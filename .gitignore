@@ -1,0 +1,22 @@
+# KiCad local state and lock files
+*.kicad_prl
+*.lck
+~*
+
+# Automatic backups and history
+*.bak
+*-bak
+*.FCBak
+.history/
+
+# Locally generated fabrication outputs
+gerbers/
+tft-display.zip
+
+# FreeCAD recovery/autosave files
+*.FCStd.*
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+*~
